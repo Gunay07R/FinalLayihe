@@ -26,14 +26,14 @@ const BackToTopButton = () => {
             position: 'fixed',
             bottom: '50px',
             right: '50px',
-            height: '50px',
+            height: '66px',
             width: '50px',
             fontSize: '50px',
             // backgroundColor: 'black',
             zIndex: '9999'
          }}
          onClick={scrollUp}
-         ></button>
+         >^</button>
       )}
     </div>
   )
