@@ -14,7 +14,7 @@ const Contact = () => {
           <h1 id='contact'>Contact Us</h1>
           <h3 >Get in touch</h3>
           <span>Email:gunaynxtahirzade@gmail.com</span>
-          <a id='call' href="tel:+994558562219"> <BsFillTelephoneFill/> Call us</a>
+          <a id='call' href="tel:+994558562219"> <BsFillTelephoneFill/> Call us +994558562219 </a>
           <p id='contact-pg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium repellendus expedita ratione sed eum? Quo?</p>
         </div>
         <div className="contact-right">
